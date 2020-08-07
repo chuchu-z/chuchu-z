@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-> Learn from you
+> I think I should learn from you
 
 🇨🇳 China Shenzhen・🕹PHP developer
 
